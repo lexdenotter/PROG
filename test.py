@@ -1,3 +1,0 @@
-testtttt
-fgg
-ffff
