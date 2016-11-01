@@ -1,6 +1,7 @@
 import requests
 import xmltodict
 
+
 def reisinformatie(station):
     #api aanroepen
     username = 'gokmen.simsek@student.hu.nl'
