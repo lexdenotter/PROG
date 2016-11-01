@@ -1,7 +1,7 @@
 import requests
 import xmltodict
 
-station = 'ut'
+station = 'ah'
 def reisinformatie(station):
     #api aanroepen
     username = 'gokmen.simsek@student.hu.nl'
@@ -20,13 +20,29 @@ def reisinformatie(station):
             vertrektijd = vertrektijd[11:16]
             eindbestemming = vertrek['EindBestemming']
             try:
-                reistip = vertrek['ReisTip']
+                vertraging = vertrek['VertrekVertragingTekst']
             except:
-                reistip = None
+                vertraging = '0 min'
+            treinsoort = vertrek['TreinSoort']
+            vervoerder = vertrek['Vervoerder']
+            try:
+                spoor = vertrek['VertrekSpoor']
+                spoornummer = spoor['#text']
+            except:
+                spoornummer = '0'
+            try:
+                reistip = 'Opmerking: ' + vertrek['ReisTip'] + '. \n'
+            except:
+                reistip = ''
+            try:
+                opmerking = 'Opmerking: ' + vertrek['Opmerkingen']['Opmerking'] + '. \n'
+            except:
+                opmerking = ''
+            print('de trein van {}, vertrekt naar {}. \n'
+                    'Deze trein heeft {} vertraging. \n'
+                    'Deze trein is een {} van {}. \n'
+                    'Deze trein vertrekt van spoor {}. \n'
+                    '{}{}'.format(vertrektijd, eindbestemming, vertraging, treinsoort, vervoerder, spoornummer, reistip, opmerking))
 
-            if reistip == None:
-                print("{} en {}".format(vertrektijd, eindbestemming))
-            else:
-                print("{} en {} en {}".format(vertrektijd, eindbestemming, reistip))
 reisinformatie(station)
 
