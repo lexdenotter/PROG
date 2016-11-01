@@ -1,7 +1,6 @@
 import requests
 import xmltodict
 
-station = 'ah'
 def reisinformatie(station):
     #api aanroepen
     username = 'gokmen.simsek@student.hu.nl'
@@ -43,6 +42,4 @@ def reisinformatie(station):
                     'Deze trein is een {} van {}. \n'
                     'Deze trein vertrekt van spoor {}. \n'
                     '{}{}'.format(vertrektijd, eindbestemming, vertraging, treinsoort, vervoerder, spoornummer, reistip, opmerking))
-
-reisinformatie(station)
 
