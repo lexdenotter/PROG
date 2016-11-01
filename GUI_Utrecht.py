@@ -1,7 +1,6 @@
 from tkinter import *
 
-stations={'Den Bosch':"'s-hertogenbosch"}
-
+from NSapi import *
 
 def toonVenster1():
     root = Tk()
@@ -9,7 +8,11 @@ def toonVenster1():
     root.resizable(width=False, height=False)
     root.title('Reisinformatie Huidig Station')
     root.configure(background='#ffcf1a')
-    button1 = Button(master=root, text='Haal Vertrektijden op', command=toonVenster1, background='#01236a', foreground='white', font=('Verdana', 13))
+    button1 = Button(master=root, text='Haal Vertrektijden op', command=aanroep, background='#01236a', foreground='white', font=('Verdana', 13))
     button1.place(x=10, y=10)
+    button1.pack()
 
+
+def aanroep():
+    return reisinformatie('ut')
 
