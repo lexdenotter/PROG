@@ -5,14 +5,18 @@
 <ActueleVertrekTijden>
 
 	<VertrekkendeTrein>
-		<RitNummer>11748</RitNummer>
-		<VertrekTijd>2016-11-02T14:59:00+0100</VertrekTijd>
+		<RitNummer>846</RitNummer>
+		<VertrekTijd>2016-11-02T14:57:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT9M</VertrekVertraging>
 		
 		
-		<EindBestemming>Den Haag Centraal</EindBestemming>
+			<VertrekVertragingTekst>+9 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Alkmaar</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Gouda</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam, Castricum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
@@ -23,68 +27,220 @@
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>2848</RitNummer>
-		<VertrekTijd>2016-11-02T15:02:00+0100</VertrekTijd>
+		<RitNummer>2653</RitNummer>
+		<VertrekTijd>2016-11-02T15:07:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT11M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+11 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Lelystad Centrum</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Almere C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>855</RitNummer>
+		<VertrekTijd>2016-11-02T15:08:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Maastricht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Utrecht C, Eindhoven</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="true">2a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1548</RitNummer>
+		<VertrekTijd>2016-11-02T15:09:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Enkhuizen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Hoorn</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5a</VertrekSpoor>
+		
+			<ReisTip>Stopt vanaf Hoorn op tussengelegen stations</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1048</RitNummer>
+		<VertrekTijd>2016-11-02T15:10:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Rotterdam Centraal</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
+		<TreinSoort>Intercity direct</TreinSoort>
 		
-			<RouteTekst>Gouda, Alexander</RouteTekst>
+			<RouteTekst>Schiphol Airport</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="true">8b</VertrekSpoor>
+		<VertrekSpoor wijziging="false">14a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>9848</RitNummer>
-		<VertrekTijd>2016-11-02T15:05:00+0100</VertrekTijd>
+		<RitNummer>4653</RitNummer>
+		<VertrekTijd>2016-11-02T15:10:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<EindBestemming>Zwolle</EindBestemming>
 		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Woerden, Gouda, Zoetermeer</RouteTekst>
+			<RouteTekst>Weesp, Almere C., Lelystad C.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		<VertrekSpoor wijziging="false">11b</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>11751</RitNummer>
-		<VertrekTijd>2016-11-02T15:06:00+0100</VertrekTijd>
+		<RitNummer>3046</RitNummer>
+		<VertrekTijd>2016-11-02T15:12:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Amersfoort Schothorst</EindBestemming>
+		<EindBestemming>Den Helder</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Amersfoort</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam, Castricum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		<VertrekSpoor wijziging="true">7</VertrekSpoor>
+		
+			<ReisTip>Stopt vanaf Alkmaar op tussengelegen stations</ReisTip>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>5553</RitNummer>
-		<VertrekTijd>2016-11-02T15:06:00+0100</VertrekTijd>
+		<RitNummer>2261</RitNummer>
+		<VertrekTijd>2016-11-02T15:12:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Baarn</EindBestemming>
+		<EindBestemming>Dordrecht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Haarlem, Rotterdam C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="true">4</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5846</RitNummer>
+		<VertrekTijd>2016-11-02T15:13:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Hoofddorp</EindBestemming>
 		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Overvecht, Den Dolder, Soest</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Schiphol Airport</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>9996</RitNummer>
+		<VertrekTijd>2016-11-02T15:17:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Lille Europe</EindBestemming>
+		<TreinSoort>Thalys</TreinSoort>
+		
+			<RouteTekst>Rotterdam C., Antwerpen-C., Brussel-Z/Midi</RouteTekst>
+		
+		
+			<Vervoerder>NS International</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">15a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4057</RitNummer>
+		<VertrekTijd>2016-11-02T15:17:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Duivendrecht, Breukelen, Woerden</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="true">4b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4046</RitNummer>
+		<VertrekTijd>2016-11-02T15:17:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Uitgeest</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Zaandam</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5463</RitNummer>
+		<VertrekTijd>2016-11-02T15:19:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Zandvoort aan Zee</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Haarlem</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
@@ -95,328 +251,194 @@
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>853</RitNummer>
-		<VertrekTijd>2016-11-02T15:08:00+0100</VertrekTijd>
+		<RitNummer>5855</RitNummer>
+		<VertrekTijd>2016-11-02T15:22:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Maastricht</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
+		<EindBestemming>Amersfoort Vathorst</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+			<RouteTekst>Weesp, Naarden-B, Hilversum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		<VertrekSpoor wijziging="false">11a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>3153</RitNummer>
-		<VertrekTijd>2016-11-02T15:08:00+0100</VertrekTijd>
+		<RitNummer>3055</RitNummer>
+		<VertrekTijd>2016-11-02T15:23:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Nijmegen</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Driebergen-Zeist, Ede-Wageningen, Arnhem C.</RouteTekst>
+			<RouteTekst>Amstel, Utrecht C, De Klomp</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">19</VertrekSpoor>
+		<VertrekSpoor wijziging="true">5b</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>4952</RitNummer>
-		<VertrekTijd>2016-11-02T15:10:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Almere Oostvaarders</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Overvecht, Hilversum, Naarden-B</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">3</VertrekSpoor>
-		
-			<ReisTip>Stopt niet in Hollandsche Rading en Hilversum Media Park</ReisTip>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3048</RitNummer>
-		<VertrekTijd>2016-11-02T15:10:00+0100</VertrekTijd>
-		
-			<VertrekVertraging>PT1M</VertrekVertraging>
-		
-		
-			<VertrekVertragingTekst>+1 min</VertrekVertragingTekst>
-		
-		<EindBestemming>Den Helder</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Amstel, Amsterdam CS, A'dam Sloterdijk</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">5</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>16055</RitNummer>
-		<VertrekTijd>2016-11-02T15:12:00+0100</VertrekTijd>
+		<RitNummer>948</RitNummer>
+		<VertrekTijd>2016-11-02T15:25:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Breda</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
+		<TreinSoort>Intercity direct</TreinSoort>
 		
-			<RouteTekst>Houten, Geldermalsen, s-Hertogenbosch</RouteTekst>
+			<RouteTekst>Schiphol Airport, Rotterdam C.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		<VertrekSpoor wijziging="false">15b</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>307453</RitNummer>
-		<VertrekTijd>2016-11-02T15:13:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Rhenen</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Maarn, Veenendaal C.</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">15</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3550</RitNummer>
-		<VertrekTijd>2016-11-02T15:13:00+0100</VertrekTijd>
-		
-			<VertrekVertraging>PT6M</VertrekVertraging>
-		
-		
-			<VertrekVertragingTekst>+6 min</VertrekVertragingTekst>
-		
-		<EindBestemming>Schiphol Airport</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Bijlmer ArenA, A'dam Zuid</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">7</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>2048</RitNummer>
-		<VertrekTijd>2016-11-02T15:14:00+0100</VertrekTijd>
+		<RitNummer>2161</RitNummer>
+		<VertrekTijd>2016-11-02T15:27:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Den Haag Centraal</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Gouda</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Haarlem, Heemstede-A.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		<VertrekSpoor wijziging="false">2a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>548</RitNummer>
-		<VertrekTijd>2016-11-02T15:17:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Rotterdam Centraal</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Gouda, Alexander</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">8</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>7448</RitNummer>
-		<VertrekTijd>2016-11-02T15:17:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Uitgeest</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Breukelen, Duivendrecht, Amsterdam CS</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">14</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>12553</RitNummer>
-		<VertrekTijd>2016-11-02T15:20:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Leeuwarden</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Amersfoort, Zwolle, Steenwijk</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">11</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>6148</RitNummer>
-		<VertrekTijd>2016-11-02T15:20:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Woerden</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>5653</RitNummer>
-		<VertrekTijd>2016-11-02T15:20:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Zwolle</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Overvecht, Den Dolder, Amersfoort</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">2</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3553</RitNummer>
-		<VertrekTijd>2016-11-02T15:23:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Heerlen</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">18</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3053</RitNummer>
-		<VertrekTijd>2016-11-02T15:23:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Nijmegen</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>De Klomp, Ede-Wageningen, Arnhem C.</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">19</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>8850</RitNummer>
-		<VertrekTijd>2016-11-02T15:25:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Leiden Centraal</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Woerden, Alphen a/d Rijn, Lammenschans</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>850</RitNummer>
-		<VertrekTijd>2016-11-02T15:25:00+0100</VertrekTijd>
+		<RitNummer>848</RitNummer>
+		<VertrekTijd>2016-11-02T15:27:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Schagen</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Amstel, Amsterdam CS, A'dam Sloterdijk</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam, Castricum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		<VertrekSpoor wijziging="false">7a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>5752</RitNummer>
-		<VertrekTijd>2016-11-02T15:25:00+0100</VertrekTijd>
+		<RitNummer>2648</RitNummer>
+		<VertrekTijd>2016-11-02T15:28:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Weesp</EindBestemming>
+		<EindBestemming>Vlissingen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Schiphol Airport, Rotterdam C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">13a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1555</RitNummer>
+		<VertrekTijd>2016-11-02T15:31:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Amersfoort</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Hilversum</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>14859</RitNummer>
+		<VertrekTijd>2016-11-02T15:34:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Beverwijk</EindBestemming>
 		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Overvecht, Hilversum</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Haarlem</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">1</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4746</RitNummer>
+		<VertrekTijd>2016-11-02T15:34:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Uitgeest</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Zaandam</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>2655</RitNummer>
+		<VertrekTijd>2016-11-02T15:37:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Lelystad Centrum</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Almere C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>857</RitNummer>
+		<VertrekTijd>2016-11-02T15:38:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Maastricht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Utrecht C, Eindhoven</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
@@ -427,168 +449,162 @@
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>17453</RitNummer>
-		<VertrekTijd>2016-11-02T15:26:00+0100</VertrekTijd>
+		<RitNummer>1550</RitNummer>
+		<VertrekTijd>2016-11-02T15:39:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Veenendaal Centrum</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Maarn</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">15</VertrekSpoor>
-		
-		
-			<Opmerkingen>
-				
-					
-						<Opmerking>
-							Rijdt vandaag niet
-						</Opmerking>
-					
-				
-			</Opmerkingen>
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>6055</RitNummer>
-		<VertrekTijd>2016-11-02T15:27:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Tiel</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Houten, Geldermalsen</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">21</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3150</RitNummer>
-		<VertrekTijd>2016-11-02T15:28:00+0100</VertrekTijd>
-		
-			<VertrekVertraging>PT3M</VertrekVertraging>
-		
-		
-			<VertrekVertragingTekst>+3 min</VertrekVertragingTekst>
-		
-		<EindBestemming>Schiphol Airport</EindBestemming>
+		<EindBestemming>Enkhuizen</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Bijlmer ArenA, A'dam Zuid</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Hoorn</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">5</VertrekSpoor>
+		<VertrekSpoor wijziging="false">11a</VertrekSpoor>
+		
+			<ReisTip>Stopt vanaf Hoorn op tussengelegen stations</ReisTip>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>1750</RitNummer>
-		<VertrekTijd>2016-11-02T15:29:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Den Haag Centraal</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Gouda</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">8</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>28325</RitNummer>
-		<VertrekTijd>2016-11-02T15:29:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Utrecht Maliebaan</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">3</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>17448</RitNummer>
-		<VertrekTijd>2016-11-02T15:31:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Breukelen</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">14</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>2850</RitNummer>
-		<VertrekTijd>2016-11-02T15:32:00+0100</VertrekTijd>
+		<RitNummer>1050</RitNummer>
+		<VertrekTijd>2016-11-02T15:40:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Intercity direct</TreinSoort>
+		
+			<RouteTekst>Schiphol Airport</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4655</RitNummer>
+		<VertrekTijd>2016-11-02T15:40:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Zwolle</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Weesp, Almere C., Lelystad C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3048</RitNummer>
+		<VertrekTijd>2016-11-02T15:42:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Helder</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Gouda, Alexander</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam, Castricum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="true">8b</VertrekSpoor>
+		<VertrekSpoor wijziging="true">7a</VertrekSpoor>
+		
+			<ReisTip>Stopt vanaf Alkmaar op tussengelegen stations</ReisTip>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>9850</RitNummer>
-		<VertrekTijd>2016-11-02T15:35:00+0100</VertrekTijd>
+		<RitNummer>2263</RitNummer>
+		<VertrekTijd>2016-11-02T15:42:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Den Haag Centraal</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
+		<EindBestemming>Dordrecht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Woerden, Gouda, Zoetermeer</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Haarlem, Rotterdam C.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		<VertrekSpoor wijziging="false">2a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>5555</RitNummer>
-		<VertrekTijd>2016-11-02T15:36:00+0100</VertrekTijd>
+		<RitNummer>5848</RitNummer>
+		<VertrekTijd>2016-11-02T15:43:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Baarn</EindBestemming>
+		<EindBestemming>Hoofddorp</EindBestemming>
 		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Overvecht, Den Dolder, Soest</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Schiphol Airport</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4059</RitNummer>
+		<VertrekTijd>2016-11-02T15:47:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Duivendrecht, Breukelen, Woerden</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="true">4b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4048</RitNummer>
+		<VertrekTijd>2016-11-02T15:47:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Uitgeest</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Zaandam</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5465</RitNummer>
+		<VertrekTijd>2016-11-02T15:49:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Zandvoort aan Zee</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Haarlem</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
@@ -599,307 +615,199 @@
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>1755</RitNummer>
-		<VertrekTijd>2016-11-02T15:36:00+0100</VertrekTijd>
+		<RitNummer>5857</RitNummer>
+		<VertrekTijd>2016-11-02T15:52:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Enschede</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
+		<EindBestemming>Amersfoort Vathorst</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Amersfoort, Apeldoorn, Deventer</RouteTekst>
+			<RouteTekst>Weesp, Naarden-B, Hilversum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		<VertrekSpoor wijziging="false">11a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>855</RitNummer>
-		<VertrekTijd>2016-11-02T15:37:00+0100</VertrekTijd>
+		<RitNummer>9252</RitNummer>
+		<VertrekTijd>2016-11-02T15:52:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Maastricht</EindBestemming>
+		<EindBestemming>Brussel-Zuid/Midi</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+			<RouteTekst>Schiphol Airport, Rotterdam C., Antwerpen-C.</RouteTekst>
 		
 		
-			<Vervoerder>NS</Vervoerder>
+			<Vervoerder>NS International</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		<VertrekSpoor wijziging="false">15a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>3155</RitNummer>
-		<VertrekTijd>2016-11-02T15:38:00+0100</VertrekTijd>
+		<RitNummer>3057</RitNummer>
+		<VertrekTijd>2016-11-02T15:53:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Nijmegen</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Driebergen-Zeist, Ede-Wageningen, Arnhem C.</RouteTekst>
+			<RouteTekst>Amstel, Utrecht C, De Klomp</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">19</VertrekSpoor>
+		<VertrekSpoor wijziging="true">5b</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>4954</RitNummer>
-		<VertrekTijd>2016-11-02T15:40:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Almere Oostvaarders</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Overvecht, Hilversum, Naarden-B</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">3</VertrekSpoor>
-		
-			<ReisTip>Stopt niet in Hollandsche Rading en Hilversum Media Park</ReisTip>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3050</RitNummer>
-		<VertrekTijd>2016-11-02T15:40:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Den Helder</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Amstel, Amsterdam CS, A'dam Sloterdijk</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">5</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>16057</RitNummer>
-		<VertrekTijd>2016-11-02T15:42:00+0100</VertrekTijd>
+		<RitNummer>950</RitNummer>
+		<VertrekTijd>2016-11-02T15:55:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Breda</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
+		<TreinSoort>Intercity direct</TreinSoort>
 		
-			<RouteTekst>Houten, Geldermalsen, s-Hertogenbosch</RouteTekst>
+			<RouteTekst>Schiphol Airport, Rotterdam C.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		<VertrekSpoor wijziging="false">15b</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>7455</RitNummer>
-		<VertrekTijd>2016-11-02T15:43:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Rhenen</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Maarn, Veenendaal C.</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">15</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3552</RitNummer>
-		<VertrekTijd>2016-11-02T15:43:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Schiphol Airport</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Bijlmer ArenA, A'dam Zuid</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">7</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>2050</RitNummer>
-		<VertrekTijd>2016-11-02T15:44:00+0100</VertrekTijd>
+		<RitNummer>2163</RitNummer>
+		<VertrekTijd>2016-11-02T15:57:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Den Haag Centraal</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Gouda</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Haarlem, Heemstede-A.</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		<VertrekSpoor wijziging="false">2a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>12550</RitNummer>
-		<VertrekTijd>2016-11-02T15:47:00+0100</VertrekTijd>
+		<RitNummer>850</RitNummer>
+		<VertrekTijd>2016-11-02T15:57:00+0100</VertrekTijd>
 		
 		
-		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<EindBestemming>Schagen</EindBestemming>
 		<TreinSoort>Intercity</TreinSoort>
 		
-			<RouteTekst>Gouda, Alexander</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam, Castricum</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		<VertrekSpoor wijziging="false">7a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>
 
 	<VertrekkendeTrein>
-		<RitNummer>7450</RitNummer>
-		<VertrekTijd>2016-11-02T15:47:00+0100</VertrekTijd>
+		<RitNummer>2650</RitNummer>
+		<VertrekTijd>2016-11-02T15:58:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Vlissingen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Schiphol Airport, Rotterdam C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">13a</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7459</RitNummer>
+		<VertrekTijd>2016-11-02T15:59:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rhenen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Duivendrecht, Breukelen, Utrecht C</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="true">4b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1557</RitNummer>
+		<VertrekTijd>2016-11-02T16:01:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Deventer</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Hilversum, Amersfoort, Apeldoorn</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>14861</RitNummer>
+		<VertrekTijd>2016-11-02T16:04:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Beverwijk</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>A'dam Sloterdijk, Haarlem</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">1</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4748</RitNummer>
+		<VertrekTijd>2016-11-02T16:04:00+0100</VertrekTijd>
 		
 		
 		<EindBestemming>Uitgeest</EindBestemming>
 		<TreinSoort>Sprinter</TreinSoort>
 		
-			<RouteTekst>Breukelen, Duivendrecht, Amsterdam CS</RouteTekst>
+			<RouteTekst>A'dam Sloterdijk, Zaandam</RouteTekst>
 		
 		
 			<Vervoerder>NS</Vervoerder>
 		
-		<VertrekSpoor wijziging="false">14</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>555</RitNummer>
-		<VertrekTijd>2016-11-02T15:50:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Groningen</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Amersfoort, Zwolle, Assen</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">11</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>6150</RitNummer>
-		<VertrekTijd>2016-11-02T15:50:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Woerden</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>5655</RitNummer>
-		<VertrekTijd>2016-11-02T15:50:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Zwolle</EindBestemming>
-		<TreinSoort>Sprinter</TreinSoort>
-		
-			<RouteTekst>Overvecht, Den Dolder, Amersfoort</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">2</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3555</RitNummer>
-		<VertrekTijd>2016-11-02T15:53:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Heerlen</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">18</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>3055</RitNummer>
-		<VertrekTijd>2016-11-02T15:53:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Nijmegen</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>De Klomp, Ede-Wageningen, Arnhem C.</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">19</VertrekSpoor>
-		
-		
-	</VertrekkendeTrein>
-
-	<VertrekkendeTrein>
-		<RitNummer>8852</RitNummer>
-		<VertrekTijd>2016-11-02T15:55:00+0100</VertrekTijd>
-		
-		
-		<EindBestemming>Leiden Centraal</EindBestemming>
-		<TreinSoort>Intercity</TreinSoort>
-		
-			<RouteTekst>Woerden, Alphen a/d Rijn, Lammenschans</RouteTekst>
-		
-		
-			<Vervoerder>NS</Vervoerder>
-		
-		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		<VertrekSpoor wijziging="false">7a</VertrekSpoor>
 		
 		
 	</VertrekkendeTrein>

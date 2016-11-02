@@ -6,6 +6,7 @@ def reisInfoMenu():
     root.geometry('790x596')
     root.resizable(width=False, height=False)
     root.title('Reisinformatie Huidig Station')
+    root.iconbitmap('ns.ico')
     root.configure(background='#ffcf1a')
     root.columnconfigure(0,minsize=790)
     root.rowconfigure(1,minsize=550)
