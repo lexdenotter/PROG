@@ -1,7 +1,7 @@
 from tkinter import *
-
 from NSapi import *
 
+#functie om venster aan te maken
 def toonVenster1():
     root = Tk()
     root.geometry('790x596')
@@ -12,7 +12,7 @@ def toonVenster1():
     button1.place(x=10, y=10)
     button1.pack()
 
-
+#functie om de functie reisinformatie aan te roepen
 def aanroep():
     return reisinformatie('ut')
 
