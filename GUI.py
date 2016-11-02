@@ -9,9 +9,9 @@ root = Tk()
 root.title('Reizigersinformatie')
 root.geometry('790x596')
 root.resizable(width=False, height=False)
-#bg_image = PhotoImage(file ='background.png')
-#x = Label (image = bg_image)
-#x.grid(row = 0, column = 0)
+bg_image = PhotoImage(file ='background.png')
+x = Label (image = bg_image)
+x.grid(row = 0, column = 0)
 
 #Button reisinfo huidig station
 button1 = Button(master=root, text='Reisinformatie Huidig Station', command=reisInfoMenu, background='#01236a', foreground='white', font=('Verdana', 13))
