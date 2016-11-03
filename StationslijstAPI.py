@@ -1,6 +1,8 @@
 import requests
 import xmltodict
+#lijst waar stationsnamen in komen te staan
 keuzes = []
+#functie om stationsnamen op te halen uit de api en in een xml bestand te schrijven
 def stationNamen():
     username = 'gokmen.simsek@student.hu.nl'
     password = 'TQxDmfd3Ghmj9HiN5MFtnfAapCWj7bcx-0Yx3SJbtgS8r0bDGcpWcw'
