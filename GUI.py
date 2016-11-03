@@ -9,14 +9,14 @@ root = Tk()
 root.title('Reizigersinformatie')
 root.geometry('790x596')
 root.resizable(width=False, height=False)
-bg_image = PhotoImage(file ='background.png')
+#bg_image = PhotoImage(file ='background.png')
 root.iconbitmap('ns.ico')
-x = Label (image = bg_image)
-x.grid(row = 0, column = 0)
+#x = Label (image = bg_image)
+#x.grid(row = 0, column = 0)
 root.iconbitmap('ns.ico')
 
 #Button reisinfo huidig station
-button1 = Button(master=root, text='Reisinformatie Huidig Station', command=reisInfoMenu, background='#01236a', foreground='white', font=('Verdana', 13))
+button1 = Button(master=root, text='Reisinformatie Utrecht Centraal', command=reisInfoMenu, background='#01236a', foreground='white', font=('Verdana', 13))
 button1.place(x=110, y=400)
 
 #Button reisingo ander station

@@ -3,11 +3,11 @@ from NSapi import *
 #functie om scherm aan te maken
 def reisInfoMenu():
     root = Tk()
-    root.geometry('790x596')
+    root.geometry('790x650')
     root.resizable(width=False, height=False)
     root.title('Reisinformatie Huidig Station')
     root.iconbitmap('ns.ico')
-    root.configure(background='#ffcf1a')
+    root.configure(background='#01236a')
     root.columnconfigure(0,minsize=790)
     root.rowconfigure(1,minsize=550)
 
@@ -22,6 +22,7 @@ def reisInfoMenu():
     button1.grid(row=0)
     #aanmaken listbox met  scrollbar
     w = Listbox(root, listvariable=reisinfo,font='Monaco')
+    w.configure(background='#ffcf1a')
     scrollbar = Scrollbar(w)
     scrollbar.pack(side=RIGHT, fill=Y)
     w.config(yscrollcommand=scrollbar.set)

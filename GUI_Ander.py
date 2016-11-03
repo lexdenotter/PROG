@@ -18,7 +18,7 @@ def toonVenster2():
     variable.set(OPTIONS[0]) # default value
     w = OptionMenu(root, variable, *OPTIONS)
     w.grid(row=0, sticky=E+W+S+N)
-    w.configure(background='#ffcf1a')
+    w.configure(background='#01236a')
     reisinfo = StringVar(master=root, value='')
     #reisgegevensophalen
     def tooninfo():
@@ -26,7 +26,7 @@ def toonVenster2():
         for vertrektijd in reisinformatie(variable.get()):
             w.insert(END,vertrektijd)
     #aktiebutton
-    button = Button(root, text="Haal reisgegevens op", command=tooninfo)
+    button = Button(root, text="Haal vertrektijden op", command=tooninfo)
     button.grid(row=1, sticky=E+W+S+N)
     #aanmaken listbox met  scrollbar
     w = Listbox(root, listvariable=reisinfo,font='Monaco')
