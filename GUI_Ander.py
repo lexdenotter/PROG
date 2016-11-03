@@ -1,5 +1,6 @@
 from tkinter import *
 from NSapi import *
+from StationslijstAPI import *
 
 def toonVenster2():
     root = Tk()
@@ -7,14 +8,11 @@ def toonVenster2():
     root.resizable(width=False, height=False)
     root.title('Reisinformatie Ander Station')
     root.configure(background='#01236a')
+    root.iconbitmap('ns.ico')
     root.columnconfigure(0,minsize=790)
     root.rowconfigure(2,minsize=550)
     #dropdownmenuopties
-    OPTIONS = [
-    "Utrecht",
-    "Den Bosch",
-    "Amsterdam Centraal"
-    ]
+    OPTIONS = keuzes
     #dropdownmenu
     variable = StringVar(root)
     variable.set(OPTIONS[0]) # default value

@@ -1,7 +1,6 @@
 import requests
 import xmltodict
 
-
 def reisinformatie(station):
     #api aanroepen
     username = 'gokmen.simsek@student.hu.nl'
@@ -33,5 +32,5 @@ def reisinformatie(station):
                 spoornummer = 'N/A'
 
             total.append("{:5} {:21} {:7} {:17} {:8}".format(vertrektijd ,eindbestemming, vertraging, treinsoort, spoornummer)) #toevoegen van reisinformatie aan de lijst
+    return total
 
-        return total
