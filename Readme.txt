@@ -54,7 +54,7 @@ Om de kaartautomaat correct werkend te krijgen moeten de volgende packages geïn
 
 Packages installeren doe je als volgt:
 
-- Open het bestand GUI.py 
+- Open het bestand PyCharm
 - Klik op file
 - Klik op settings
 - Vouw het tabje Project:projectprog uit
@@ -69,8 +69,7 @@ Packages installeren doe je als volgt:
 
 De kaartautomaat gebruiken
 --------------------------
-- Open het bestand GUI.py
-- Klik op de groene afspeelknop bij coderegel 1 en de applicatie start.
+- Open het bestand GUI.py vanuit de File Explorer.
 - Er verschijnt een startmenu met twee opties, hier maak je de keuze of je reisinformatie van de huidige station wilt zien of die van een andere station.
 - Als de gebruiker kiest voor een andere station, krijgt de gebruiker een optie om een station te selecteren via een dropdownmenu.
 - Druk vervolgens op "Haal reisgegevens op"
