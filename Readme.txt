@@ -19,15 +19,19 @@
  / ____ \ |_| | || (_) | | | | | | (_| | (_| | |_ 
 /_/    \_\__,_|\__\___/|_| |_| |_|\__,_|\__,_|\__|
 
-Auteurs: Sven, Gökhan, Gökmen, Lex, Paul
-----------------------------------------------------------------------------------------
-GUI.py release 1.0
+Auteurs: Sven, GÃ¶khan, GÃ¶kmen, Lex, Paul
+
+Versie:
 ------------------------------
+GUI.py release 1.0
+
+
 Wat doet deze applicatie?
 ------------------------------
 Met deze applicatie kunnen reizigers van de van de NS actuele reistijden opvragen.
 Tevens kun je zien of en waar er vertragingen zijn.
------------------
+
+
 Software
 -----------------
 Om dit programma goed te kunnen uitvoeren zijn de volgende applicatie's nodig:
@@ -35,14 +39,16 @@ Om dit programma goed te kunnen uitvoeren zijn de volgende applicatie's nodig:
 - Python 3.5.0 -> Hoger
 - PyCharm Educational Edition 1.0.1 -> hoger
 
+
 Download links
 ----------------
 https://www.python.org/downloads/
 https://www.jetbrains.com/pycharm-edu/download/
 
-Voordat je de kaartautomaat gaat openen moeten de volgende packages worden geïnstalleerd.
+
+Voordat je de kaartautomaat gaat openen moeten de volgende packages worden geÃ¯nstalleerd.
 --------------------------------------
-Om de kaartautomaat correct werkend te krijgen moeten de volgende packages geïnstalleerd worden in pycharm. 
+Om de kaartautomaat correct werkend te krijgen moeten de volgende packages geÃ¯nstalleerd worden in pycharm. 
 - xmltodict
 - requests
 
@@ -59,6 +65,7 @@ Packages installeren doe je als volgt:
 - Typ requests
 - Klik linksonder op Install Package
 - Sluit dit venster af, en klik op OK
+
 
 De kaartautomaat gebruiken
 --------------------------
