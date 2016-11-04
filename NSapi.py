@@ -15,8 +15,7 @@ def reisinformatie(station):
         vertrekXML = xmltodict.parse(response.text)
         vertrekXML = vertrekXML['ActueleVertrekTijden']
         elementen = vertrekXML['VertrekkendeTrein']
-        total = [("{:5} {:21} {:11} {:17} {:12}".format('Tijd', 'Bestemming', 'Vertraging', 'Soort',
-                                                        'Spoor'))]  # list waar reisinformatie in wordt opgeslagen
+        total = [("{:5} {:21} {:11} {:17} {:12}".format('Tijd', 'Bestemming', 'Vertraging', 'Soort', 'Spoor'))]  # list waar reisinformatie in wordt opgeslagen
         # xml file doorlopen en gegevens daaruit in variabelen opslaan
         for vertrek in elementen:
             vertrektijd = vertrek['VertrekTijd']
@@ -33,6 +32,5 @@ def reisinformatie(station):
             except:
                 spoornummer = 'N/A'
 
-            total.append("{:5} {:25} {:7} {:17} {:8}".format(vertrektijd, eindbestemming, vertraging, treinsoort,
-                                                             spoornummer))  # toevoegen van reisinformatie aan de lijst
+            total.append("{:5} {:25} {:7} {:17} {:8}".format(vertrektijd, eindbestemming, vertraging, treinsoort, spoornummer))  # toevoegen van reisinformatie aan de lijst
     return total
